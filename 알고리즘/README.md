@@ -30,18 +30,18 @@
 
 | 일자  |    분류    |                               문제                                | 난이도 | 강태경 | 박상욱 | 박세건 | 송주한 | 윤병서 |
 | ----- | :--------: | :---------------------------------------------------------------: | :----: | :----: | :----: | :----: | :----: | :----: |
-| 01/22 |    재귀    |      [큰 수 구성하기](https://www.acmicpc.net/problem/18511)      |   S4   |   O    |   O    |        |        |   O    |
-| 01/23 |  완전탐색  |         [다이어트](https://www.acmicpc.net/problem/19942)         |   G4   |   O    |   O    |        |        |   O    |
-| 01/24 |    조합    |           [사전](https://www.acmicpc.net/problem/1256)            |   G2   |        |   O    |        |        |   O    |
-| 01/25 |    조합    |        [순열의 순서](https://www.acmicpc.net/problem/1722)        |   G5   |   O    |   O    |        |        |   O    |
-| 01/27 |    스택    |      [옥상정원 꾸미기](https://www.acmicpc.net/problem/6198)      |   G5   |   O    |   O    |        |        |   O    |
-| 01/28 |     큐     | [타노스는 요세푸스가 밉다](https://www.acmicpc.net/problem/28066) |   S2   |   O    |   O    |        |        |   O    |
-| 01/29 | 연결리스트 |        [철도 공사](https://www.acmicpc.net/problem/23309)         |   G4   |        |   O    |        |        |        |
-| 01/29 |    트리    |      [완전 이진 트리](https://www.acmicpc.net/problem/9934)       |   S1   |        |   O    |        |        |   O    |
-| 01/30 |    트리    |     [노드 사이의 거리](https://www.acmicpc.net/problem/1240)      |   G5   |        |   O    |        |        |   O    |
-| 01/30 |  완전탐색  |        [제곱수 찾기](https://www.acmicpc.net/problem/1025)        |   G5   |        |   O    |        |        |   O    |
-| 01/31 |    트리    |       [양 구출 작전](https://www.acmicpc.net/problem/16437)       |   G3   |        |   O    |        |        |   O    |
-| 02/01 | 비트마스킹 |          [가르침](https://www.acmicpc.net/problem/1062)           |   G4   |        |   O    |        |        |   O    |
+| 01/22 |    재귀    |      [큰 수 구성하기](https://www.acmicpc.net/problem/18511)      |   S4   |   O    |   O    |    O    |        |   O    |
+| 01/23 |  완전탐색  |         [다이어트](https://www.acmicpc.net/problem/19942)         |   G4   |   O    |   O    |    O    |        |   O    |
+| 01/24 |    조합    |           [사전](https://www.acmicpc.net/problem/1256)            |   G2   |        |   O    |    O    |         |   O    |
+| 01/25 |    조합    |        [순열의 순서](https://www.acmicpc.net/problem/1722)        |   G5   |   O    |   O    |    O    |        |   O    |
+| 01/27 |    스택    |      [옥상정원 꾸미기](https://www.acmicpc.net/problem/6198)      |   G5   |   O    |   O    |    O    |        |   O    |
+| 01/28 |     큐     | [타노스는 요세푸스가 밉다](https://www.acmicpc.net/problem/28066) |   S2   |   O    |   O    |    O    |        |   O    |
+| 01/29 | 연결리스트 |        [철도 공사](https://www.acmicpc.net/problem/23309)         |   G4   |        |   O    |    O    |        |        |
+| 01/29 |    트리    |      [완전 이진 트리](https://www.acmicpc.net/problem/9934)       |   S1   |        |   O    |    O    |        |   O    |
+| 01/30 |    트리    |     [노드 사이의 거리](https://www.acmicpc.net/problem/1240)      |   G5   |        |   O    |    O    |        |   O    |
+| 01/30 |  완전탐색  |        [제곱수 찾기](https://www.acmicpc.net/problem/1025)        |   G5   |        |   O    |    O    |        |   O    |
+| 01/31 |    트리    |       [양 구출 작전](https://www.acmicpc.net/problem/16437)       |   G3   |        |   O    |    O    |        |   O    |
+| 02/01 | 비트마스킹 |          [가르침](https://www.acmicpc.net/problem/1062)           |   G4   |        |   O    |    O    |        |   O    |
 | 02/02 |     큐     |         [좋은 친구](https://www.acmicpc.net/problem/3078)         |   G4   |        |   O    |        |        |        |
 | 02/03 | 비트마스킹 |      [링크와 스타트](https://www.acmicpc.net/problem/15661)       |   G5   |        |   O    |        |        |   O    |
 | 02/04 |    스택    |           [PPAP](https://www.acmicpc.net/problem/16120)           |   G4   |        |   O    |        |        |   O    |
