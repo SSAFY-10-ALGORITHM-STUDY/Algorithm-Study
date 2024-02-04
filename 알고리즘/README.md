@@ -43,7 +43,7 @@
 | 01/31 |    트리    |       [양 구출 작전](https://www.acmicpc.net/problem/16437)       |   G3   |        |   O    |        |        |   O    |
 | 02/01 | 비트마스킹 |          [가르침](https://www.acmicpc.net/problem/1062)           |   G4   |        |   O    |        |        |   O    |
 | 02/02 |     큐     |         [좋은 친구](https://www.acmicpc.net/problem/3078)         |   G4   |        |   O    |        |        |        |
-| 02/03 | 비트마스킹 |      [링크와 스타트](https://www.acmicpc.net/problem/15661)        |   G5   |        |        |        |        |    O   |
+| 02/03 | 비트마스킹 |      [링크와 스타트](https://www.acmicpc.net/problem/15661)       |   G5   |        |   O    |        |        |   O    |
 | 02/04 |    스택    |           [PPAP](https://www.acmicpc.net/problem/16120)           |   G4   |        |   O    |        |        |   O    |
 | 02/05 | 연결리스트 |                                                                   |        |        |        |        |        |        |
 | 02/06 |    트리    |                                                                   |        |        |        |        |        |        |
