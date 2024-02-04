@@ -45,7 +45,7 @@
 | 02/02 |     큐     |         [좋은 친구](https://www.acmicpc.net/problem/3078)         |   G4   |        |   O    |        |        |        |
 | 02/03 | 비트마스킹 |      [링크와 스타트](https://www.acmicpc.net/problem/15661)       |   G5   |        |   O    |        |        |   O    |
 | 02/04 |    스택    |           [PPAP](https://www.acmicpc.net/problem/16120)           |   G4   |        |   O    |        |        |   O    |
-| 02/05 | 연결리스트 |                                                                   |        |        | - [ ]  |        |        |        |
+| 02/05 | 연결리스트 |                                                                   |        |        |        |        |        |        |
 | 02/06 |    트리    |                                                                   |        |        |        |        |        |        |
 | 02/06 |   그리디   |                                                                   |        |        |        |        |        |        |
 | 02/07 |    트리    |                                                                   |        |        |        |        |        |        |
@@ -54,9 +54,41 @@
 | 02/08 |   그래프   |                                                                   |        |        |        |        |        |        |
 | 02/09 |  내용 10   |                                                                   |        |        |        |        |        |        |
 
+ <table border="1">
+    <thead align="center">
+        <th>일자</th>
+        <th>분류</th>
+        <th>문제</th>
+        <th>난이도</th>
+        <th>강태경</th>
+        <th>박상욱</th>
+        <th>박세건</th>
+        <th>송주한</th>
+        <th>윤병서</th>
+    </thead>
+    <tbody>
+        <tr align="center">
+            <td>01/22</td>
+            <td>재귀</td>
+            <td>[큰 수 구성하기](https://www.acmicpc.net/problem/18511)</td>
+            <td>S4</td>
+            <td><input type="checkbox" /></td>
+            <td><input type="checkbox" /></td>
+            <td><input type="checkbox" /></td>
+            <td><input type="checkbox" /></td>
+            <td><input type="checkbox" /></td>
+        </tr>
+        <tr>
+            <td>첫번째 칸</td>
+            <td>두번째 칸</td>
+        </tr>
+    </tbody>
+</table>
+
 ## 역할
 
 -   알고리즘 문제 선정
 -   Github 문제 해결 여부 체크
 -   알고리즘 면접 질문
 -   리드미 정리
+-   [x] dka
