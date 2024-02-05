@@ -45,7 +45,7 @@
 | 02/02 |     큐     |         [좋은 친구](https://www.acmicpc.net/problem/3078)         |   G4   |        |   O    |   O    |        |        |
 | 02/03 | 비트마스킹 |      [링크와 스타트](https://www.acmicpc.net/problem/15661)       |   G5   |        |   O    |    O    |    O    |   O    |
 | 02/04 |    스택    |           [PPAP](https://www.acmicpc.net/problem/16120)           |   G4   |        |   O    |   O     |   O     |   O    |
-| 02/05 | 연결리스트 |          [회전하는 큐](https://www.acmicpc.net/problem/1021)       |   S3   |        |        |        |        |        |
+| 02/05 | 연결리스트 |          [회전하는 큐](https://www.acmicpc.net/problem/1021)       |   S3   |        |        |    O   |        |        |
 | 02/06 |    트리    |                                                                   |        |        |        |        |        |        |
 | 02/06 |   그리디   |                                                                   |        |        |        |        |        |        |
 | 02/07 |    트리    |                                                                   |        |        |        |        |        |        |
