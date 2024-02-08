@@ -38,17 +38,17 @@
 | 01/28 |     큐      | [타노스는 요세푸스가 밉다](https://www.acmicpc.net/problem/28066) |   S2   |   O    |   O    |   O    |        |   O    |
 | 01/29 | 연결리스트  |        [철도 공사](https://www.acmicpc.net/problem/23309)         |   G4   |        |   O    |   O    |        |        |
 | 01/29 |    트리     |      [완전 이진 트리](https://www.acmicpc.net/problem/9934)       |   S1   |        |   O    |   O    |        |   O    |
-| 01/30 |    트리     |     [노드 사이의 거리](https://www.acmicpc.net/problem/1240)      |   G5   |    O    |   O    |   O    |        |   O    |
-| 01/30 |  완전탐색   |        [제곱수 찾기](https://www.acmicpc.net/problem/1025)        |   G5   |    O    |   O    |   O    |        |   O    |
+| 01/30 |    트리     |     [노드 사이의 거리](https://www.acmicpc.net/problem/1240)      |   G5   |   O    |   O    |   O    |        |   O    |
+| 01/30 |  완전탐색   |        [제곱수 찾기](https://www.acmicpc.net/problem/1025)        |   G5   |   O    |   O    |   O    |        |   O    |
 | 01/31 |    트리     |       [양 구출 작전](https://www.acmicpc.net/problem/16437)       |   G3   |        |   O    |   O    |        |   O    |
-| 02/01 | 비트마스킹  |          [가르침](https://www.acmicpc.net/problem/1062)           |   G4   |    O    |   O    |   O    |        |   O    |
+| 02/01 | 비트마스킹  |          [가르침](https://www.acmicpc.net/problem/1062)           |   G4   |   O    |   O    |   O    |        |   O    |
 | 02/02 |     큐      |         [좋은 친구](https://www.acmicpc.net/problem/3078)         |   G4   |        |   O    |   O    |        |   O    |
 | 02/03 | 비트마스킹  |      [링크와 스타트](https://www.acmicpc.net/problem/15661)       |   G5   |        |   O    |   O    |   O    |   O    |
 | 02/04 |    스택     |           [PPAP](https://www.acmicpc.net/problem/16120)           |   G4   |        |   O    |   O    |   O    |   O    |
-| 02/05 | 연결리스트  |        [회전하는 큐](https://www.acmicpc.net/problem/1021)        |   S3   |    O    |   O    |   O    |        |        |
+| 02/05 | 연결리스트  |        [회전하는 큐](https://www.acmicpc.net/problem/1021)        |   S3   |   O    |   O    |   O    |        |        |
 | 02/06 |    트리     |        [트리 순회](https://www.acmicpc.net/problem/22856)         |   G4   |        |   O    |        |        |        |
-| 02/07 | 우선순위 큐 |          [강의실](https://www.acmicpc.net/problem/1374)           |   G5   |    O    |   O    |    O    |        |   O   |
-| 02/07 |  분할정복   |                                                                   |        |        |        |        |        |        |
+| 02/07 | 우선순위 큐 |          [강의실](https://www.acmicpc.net/problem/1374)           |   G5   |   O    |   O    |   O    |        |   O    |
+| 02/08 |  분할정복   |        [칸토어 집합](https://www.acmicpc.net/problem/4779)        |   S3   |        |   O    |        |        |        |
 | 02/08 |  완전탐색   |                                                                   |        |        |        |        |        |        |
 | 02/08 |   그래프    |                                                                   |        |        |        |        |        |        |
 | 02/09 |   내용 10   |                                                                   |        |        |        |        |        |        |
