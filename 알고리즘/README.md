@@ -36,7 +36,7 @@
 | 01/25 |    조합     |        [순열의 순서](https://www.acmicpc.net/problem/1722)        |   G5   |   O    |   O    |   O    |        |   O    |
 | 01/27 |    스택     |      [옥상정원 꾸미기](https://www.acmicpc.net/problem/6198)      |   G5   |   O    |   O    |   O    |        |   O    |
 | 01/28 |     큐      | [타노스는 요세푸스가 밉다](https://www.acmicpc.net/problem/28066) |   S2   |   O    |   O    |   O    |        |   O    |
-| 01/29 | 연결리스트  |        [철도 공사](https://www.acmicpc.net/problem/23309)         |   G4   |        |   O    |   O    |        |        |
+| 01/29 | 연결리스트  |        [철도 공사](https://www.acmicpc.net/problem/23309)         |   G4   |        |   O    |   O    |        |   O    |
 | 01/29 |    트리     |      [완전 이진 트리](https://www.acmicpc.net/problem/9934)       |   S1   |        |   O    |   O    |        |   O    |
 | 01/30 |    트리     |     [노드 사이의 거리](https://www.acmicpc.net/problem/1240)      |   G5   |   O    |   O    |   O    |        |   O    |
 | 01/30 |  완전탐색   |        [제곱수 찾기](https://www.acmicpc.net/problem/1025)        |   G5   |   O    |   O    |   O    |        |   O    |
