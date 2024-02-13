@@ -46,7 +46,7 @@
 | 02/03 | 비트마스킹  |      [링크와 스타트](https://www.acmicpc.net/problem/15661)       |   G5   |        |   O    |   O    |   O    |   O    |
 | 02/04 |    스택     |           [PPAP](https://www.acmicpc.net/problem/16120)          |   G4   |        |   O    |   O    |   O    |   O    |
 | 02/05 | 연결리스트  |        [회전하는 큐](https://www.acmicpc.net/problem/1021)        |   S3   |   O    |   O    |   O    |        |        |
-| 02/06 |    트리     |        [트리 순회](https://www.acmicpc.net/problem/22856)        |   G4   |        |   O    |        |        |   O    |
+| 02/06 |    트리     |        [트리 순회](https://www.acmicpc.net/problem/22856)        |   G4   |        |   O    |    O   |        |   O    |
 | 02/07 | 우선순위 큐 |          [강의실](https://www.acmicpc.net/problem/1374)           |   G5   |   O    |   O    |   O    |   O    |   O    |
 | 02/08 |  분할정복   |        [칸토어 집합](https://www.acmicpc.net/problem/4779)        |   S3   |        |   O    |   O     |   O    |   O    |
 | 02/13 |   그리디    |       [파일 합치기3](https://www.acmicpc.net/problem/13975)       |   G4   |        |        |        |        |   O    |
