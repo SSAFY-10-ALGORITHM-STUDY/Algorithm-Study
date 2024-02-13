@@ -51,7 +51,7 @@
 | 02/08 |  분할정복   |        [칸토어 집합](https://www.acmicpc.net/problem/4779)        |   S3   |        |   O    |   O    |   O    |   O    |
 | 02/13 |   그리디    |       [파일 합치기3](https://www.acmicpc.net/problem/13975)       |   G4   |        |   O    |   O    |        |   O    |
 | 02/14 |  분할정복   |          [Moo게임](https://www.acmicpc.net/problem/5904)          |   G5   |        |        |        |        |        |
-| 02/15 |   그래프    |            [불](https://www.acmicpc.net/problem/5427)             |   G4   |        |        |        |        |        |
+| 02/15 |   그래프    |            [불](https://www.acmicpc.net/problem/5427)             |   G4   |        |        |        |        |   O    |
 | 02/16 |   그래프    |   [가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584)   |   G4   |        |        |        |        |        |
 
 ## 역할
