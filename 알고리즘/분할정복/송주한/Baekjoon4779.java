@@ -28,7 +28,7 @@ public class Baekjoon4779 {
 	static void aggregation(int cnt) {
 		if(n < cnt) {
 			return;
-		}
+		}  
 		
 		if(cnt ==0) {
 			str[0]="-";
