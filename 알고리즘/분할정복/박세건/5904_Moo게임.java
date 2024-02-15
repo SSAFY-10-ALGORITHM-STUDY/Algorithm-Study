@@ -5,7 +5,6 @@ Moo 수열은 "moo"로 시작
   찾고자 하는 수열에서 수열의 크기를 분할하면서 답을 탐색
 
 
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
