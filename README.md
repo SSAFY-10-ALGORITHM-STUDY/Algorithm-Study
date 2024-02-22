@@ -55,7 +55,7 @@
 | 02/16 |    그래프    |   [가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584)   |   G4   |        |   O    |        |        |        |
 | 02/20 |    그래프    | [서울 지하철 2호선 (DFS)](https://www.acmicpc.net/problem/16947)  |   G4   |        |   O    |        |   O    |        |
 | 02/21 |  서로소집합  |     [피리 부는 사나이](https://www.acmicpc.net/problem/16724)     |   G3   |        |   O    |        |        |   O    |
-| 02/22 | 최소신장트리 |        [도시 건설](https://www.acmicpc.net/problem/21924)         |   G4   |        |        |        |        |        |
+| 02/22 | 최소신장트리 |        [도시 건설](https://www.acmicpc.net/problem/21924)         |   G4   |        |        |        |        |   O    |
 | 02/23 |   최단경로   |         [택배 배송](https://www.acmicpc.net/problem/5972)         |   G5   |        |        |        |        |        |
 
 ## 역할
