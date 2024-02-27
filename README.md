@@ -2,11 +2,11 @@
 
 ### 스터디원
 
--   강태경
--   박상욱
--   박세건
--   송주한
--   윤병서
+- 강태경
+- 박상욱
+- 박세건
+- 송주한
+- 윤병서
 
 ## 스터디 목표
 
@@ -14,17 +14,17 @@
 
 ## 진행 방식
 
--   평일
-    -   일주일 뒤 배울 알고리즘 1문제
-    -   당일 배운 알고리즘 문제 1문제 (당일 과제 많은 경우 PASS)
-    -   금요일마다 모여서 1문제 씩 코드 리뷰
--   주말
+- 평일
+  - 일주일 뒤 배울 알고리즘 1문제
+  - 당일 배운 알고리즘 문제 1문제 (당일 과제 많은 경우 PASS)
+  - 금요일마다 모여서 1문제 씩 코드 리뷰
+- 주말
 
-    -   해당 주에 풀었던 알고리즘 관련 2,3문제 (난이도 최소 골드)
+  - 해당 주에 풀었던 알고리즘 관련 2,3문제 (난이도 최소 골드)
 
--   문제 해결 이후 Github에 문제 올리기 & README 체크 표시
--   문제 해결 못한 경우 해당 문제 Pull Request 남겨서 코멘트
--   Git 컨벤션 양식 [이름]: 아이디어 한 줄 설명
+- 문제 해결 이후 Github에 문제 올리기 & README 체크 표시
+- 문제 해결 못한 경우 해당 문제 Pull Request 남겨서 코멘트
+- Git 컨벤션 양식 [이름]: 아이디어 한 줄 설명
 
 ## 주차 별 학습
 
@@ -51,19 +51,19 @@
 | 02/08 |   분할정복   |        [칸토어 집합](https://www.acmicpc.net/problem/4779)        |   S3   |   O    |   O    |   O    |   O    |   O    |
 | 02/13 |    그리디    |       [파일 합치기3](https://www.acmicpc.net/problem/13975)       |   G4   |        |   O    |   O    |   O    |   O    |
 | 02/14 |   분할정복   |          [Moo게임](https://www.acmicpc.net/problem/5904)          |   G5   |        |   O    |   O    |   O    |        |
-| 02/15 |    그래프    |            [불](https://www.acmicpc.net/problem/5427)             |   G4   |        |   O    |  O     |        |   O    |
+| 02/15 |    그래프    |            [불](https://www.acmicpc.net/problem/5427)             |   G4   |        |   O    |   O    |        |   O    |
 | 02/16 |    그래프    |   [가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584)   |   G4   |        |   O    |   O    |        |        |
 | 02/20 |    그래프    | [서울 지하철 2호선 (DFS)](https://www.acmicpc.net/problem/16947)  |   G4   |        |   O    |        |   O    |        |
 | 02/21 |  서로소집합  |     [피리 부는 사나이](https://www.acmicpc.net/problem/16724)     |   G3   |        |   O    |   O    |        |   O    |
 | 02/22 | 최소신장트리 |        [도시 건설](https://www.acmicpc.net/problem/21924)         |   G4   |        |   O    |        |        |   O    |
 | 02/23 |   최단경로   |         [택배 배송](https://www.acmicpc.net/problem/5972)         |   G5   |        |        |        |        |        |
-| 02/27 |  동적계획법  |         [극장 좌석](https://www.acmicpc.net/problem/2302)         |   S1   |        |        |        |        |   O    |
+| 02/27 |  동적계획법  |         [극장 좌석](https://www.acmicpc.net/problem/2302)         |   S1   |        |   O    |        |        |   O    |
 | 02/28 |  동적계획법  |         [줄세우기](https://www.acmicpc.net/problem/2631)          |   G4   |        |        |        |        |        |
 | 02/29 |   최단경로   |           [택배](https://www.acmicpc.net/problem/1719)            |   G3   |        |        |        |        |        |
 
 ## 역할
 
--   알고리즘 문제 선정
--   Github 문제 해결 여부 체크
--   알고리즘 면접 질문
--   리드미 정리
+- 알고리즘 문제 선정
+- Github 문제 해결 여부 체크
+- 알고리즘 면접 질문
+- 리드미 정리
