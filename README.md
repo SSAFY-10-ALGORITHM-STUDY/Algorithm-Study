@@ -59,9 +59,9 @@
 | 02/23 |   최단경로   |         [택배 배송](https://www.acmicpc.net/problem/5972)         |   G5   |        |   O    |   O    |        |   O    |
 | 02/27 |  동적계획법  |         [극장 좌석](https://www.acmicpc.net/problem/2302)         |   S1   |        |   O    |        |        |   O    |
 | 02/28 |  동적계획법  |         [줄세우기](https://www.acmicpc.net/problem/2631)          |   G4   |        |   O    |        |        |   O    |
-| 02/29 |   최단경로   |           [택배](https://www.acmicpc.net/problem/1719)            |   G3   |        |        |        |        |        |
+| 02/29 |   최단경로   |           [택배](https://www.acmicpc.net/problem/1719)            |   G3   |        |   O    |        |        |        |
 | 03/02 |   이분탐색   |           [좋다](https://www.acmicpc.net/problem/1253)            |   G4   |        |        |        |        |        |
-| 03/03 |   위상정렬   |         [선수과목](https://www.acmicpc.net/problem/14567)         |   G5   |        |        |        |        |        |
+| 03/03 |     구현     |       [2048 (Easy)](https://www.acmicpc.net/problem/12100)        |   G2   |        |        |        |        |        |
 
 ## 역할
 
