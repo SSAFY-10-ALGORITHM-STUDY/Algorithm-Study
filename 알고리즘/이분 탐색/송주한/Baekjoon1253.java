@@ -17,7 +17,7 @@ public class Baekjoon1253 {
 		for (int i = 0; i < n; i++) {
 			arr[i] = Integer.parseInt(st.nextToken());
 		}
-		Arrays.sort(arr);
+		Arrays.sort(arr); 
 		
 		for(int i=0;i<n;i++) {
 			int left =0;
