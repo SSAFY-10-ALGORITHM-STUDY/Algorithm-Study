@@ -57,7 +57,7 @@
 | 02/21 |  서로소집합  |     [피리 부는 사나이](https://www.acmicpc.net/problem/16724)     |   G3   |        |   O    |   O    |        |   O    |
 | 02/22 | 최소신장트리 |        [도시 건설](https://www.acmicpc.net/problem/21924)         |   G4   |        |   O    |        |        |   O    |
 | 02/23 |   최단경로   |         [택배 배송](https://www.acmicpc.net/problem/5972)         |   G5   |        |   O    |   O    |        |   O    |
-| 02/27 |  동적계획법  |         [극장 좌석](https://www.acmicpc.net/problem/2302)         |   S1   |        |   O    |        |        |   O    |
+| 02/27 |  동적계획법  |         [극장 좌석](https://www.acmicpc.net/problem/2302)         |   S1   |        |   O    |   O    |        |   O    |
 | 02/28 |  동적계획법  |         [줄세우기](https://www.acmicpc.net/problem/2631)          |   G4   |        |   O    |        |        |   O    |
 | 02/29 |   최단경로   |           [택배](https://www.acmicpc.net/problem/1719)            |   G3   |        |   O    |        |        |        |
 | 03/02 |   이분탐색   |           [좋다](https://www.acmicpc.net/problem/1253)            |   G4   |        |   O    |   O    |   O    |        |
