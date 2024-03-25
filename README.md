@@ -73,9 +73,9 @@
 | 3월 4주차 |  1   |    [무한부스터](https://www.acmicpc.net/problem/17391)     |   S1   |        |   O    |        |        |        |
 | 3월 4주차 |  2   |     [암벽 등반](https://www.acmicpc.net/problem/2412)      |   G4   |        |   O    |        |        |        |
 | 3월 4주차 |  2   | [산업 스파이의 편지](https://www.acmicpc.net/problem/3671) |   G4   |        |   O    |        |        |        |
-| 3월 5주차 |  1   |                            []()                            |        |        |        |        |        |        |
-| 3월 5주차 |  2   |                            []()                            |        |        |        |        |        |        |
-| 3월 5주차 |  3   |                            []()                            |        |        |        |        |        |        |
+| 3월 5주차 |  1   | [끝나지 않는 파티](https://www.acmicpc.net/problem/11265)  |   G5   |        |        |        |        |        |
+| 3월 5주차 |  2   |     [K진 트리](https://www.acmicpc.net/problem/11812)      |   G3   |        |        |        |        |        |
+| 3월 5주차 |  3   |       [기지국](https://www.acmicpc.net/problem/2300)       |   G2   |        |        |        |        |        |
 | 4월 1주차 |  1   |                            []()                            |        |        |        |        |        |        |
 | 4월 1주차 |  2   |                            []()                            |        |        |        |        |        |        |
 | 4월 1주차 |  3   |                            []()                            |        |        |        |        |        |        |
