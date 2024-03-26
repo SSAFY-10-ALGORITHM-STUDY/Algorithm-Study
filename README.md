@@ -67,7 +67,7 @@
 
 | 주차      | 레벨 |                            문제                            | 난이도 | 강태경 | 박상욱 | 박세건 | 송주한 | 윤병서 |
 | --------- | :--: | :--------------------------------------------------------: | :----: | :----: | :----: | :----: | :----: | :----: |
-| 3월 3주차 |  1   |      [포스택](https://www.acmicpc.net/problem/25556)       |   G5   |        |   O    |   O    |        |        |
+| 3월 3주차 |  1   |      [포스택](https://www.acmicpc.net/problem/25556)       |   G5   |        |   O    |   O    |        |    O   |
 | 3월 3주차 |  2   |      [나3곱2](https://www.acmicpc.net/problem/16936)       |   G5   |        |   O    |        |   O    |        |
 | 3월 3주차 |  3   |  [Gaaaaaaaaaarden](https://www.acmicpc.net/problem/18809)  |   G1   |        |   O    |        |        |        |
 | 3월 4주차 |  1   |    [무한부스터](https://www.acmicpc.net/problem/17391)     |   S1   |        |   O    |    O    |        |        |
