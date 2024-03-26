@@ -1,0 +1,53 @@
+package test;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.util.StringTokenizer;
+
+public class boj16936 {
+	static List<Long> arr = new ArrayList<>();
+	static int n;
+	static List<Long> list;
+	static boolean flag = false;
+	
+	public static void main(String[] args) throws Exception {
+		BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
+		StringTokenizer st = new StringTokenizer(in.readLine());
+
+		n = Integer.parseInt(st.nextToken());
+
+		st = new StringTokenizer(in.readLine());
+		for (int i = 0; i < n; i++) {
+			long k = Long.parseLong(st.nextToken());
+			arr.add(k);
+		}
+
+		for (int i = 0; i < n; i++) {
+			list = new ArrayList<>();
+			list.add(arr.get(i));
+			foo(arr.get(i));
+		}
+	}
+
+	private static void foo(long l) {
+		if(flag == true) return;
+		if(list.size() == n) {
+			for(int i = 0 ; i < n ; i ++) {
+				System.out.print(list.get(i) + " ");
+			}
+			flag = true;
+			return;
+		}
+		
+		if(arr.contains(l * 2) && !list.contains(l * 2)) {
+			list.add(l * 2);
+			foo(l * 2);
+		} else if(l % 3 == 0 && arr.contains(l / 3) && !list.contains(l / 3)) {
+			list.add(l / 3);
+			foo(l / 3);
+		}
+	}
+}
