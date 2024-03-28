@@ -40,7 +40,7 @@
 | 01/29 |     트리     |      [완전 이진 트리](https://www.acmicpc.net/problem/9934)       |   S1   |   O    |   O    |   O    |        |   O    |
 | 01/30 |     트리     |     [노드 사이의 거리](https://www.acmicpc.net/problem/1240)      |   G5   |   O    |   O    |   O    |        |   O    |
 | 01/30 |   완전탐색   |        [제곱수 찾기](https://www.acmicpc.net/problem/1025)        |   G5   |   O    |   O    |   O    |        |   O    |
-| 01/31 |     트리     |       [양 구출 작전](https://www.acmicpc.net/problem/16437)       |   G3   |        |   O    |   O    |        |   O    |
+| 01/31 |     트리     |       [양 구출 작전](https://www.acmicpc.net/problem/16437)       |   G3   |   O     |   O    |   O    |        |   O    |
 | 02/01 |  비트마스킹  |          [가르침](https://www.acmicpc.net/problem/1062)           |   G4   |   O    |   O    |   O    |        |   O    |
 | 02/02 |      큐      |         [좋은 친구](https://www.acmicpc.net/problem/3078)         |   G4   |   O    |   O    |   O    |        |   O    |
 | 02/03 |  비트마스킹  |      [링크와 스타트](https://www.acmicpc.net/problem/15661)       |   G5   |        |   O    |   O    |   O    |   O    |
@@ -73,7 +73,7 @@
 | 3월 4주차 |  1   |    [무한부스터](https://www.acmicpc.net/problem/17391)     |   S1   |        |   O    |    O    |        |        |
 | 3월 4주차 |  2   |     [암벽 등반](https://www.acmicpc.net/problem/2412)      |   G4   |        |   O    |        |        |        |
 | 3월 4주차 |  2   | [산업 스파이의 편지](https://www.acmicpc.net/problem/3671) |   G4   |        |   O    |        |        |        |
-| 3월 5주차 |  1   | [끝나지 않는 파티](https://www.acmicpc.net/problem/11265)  |   G5   |        |   O    |   O     |   O    |   O    |
+| 3월 5주차 |  1   | [끝나지 않는 파티](https://www.acmicpc.net/problem/11265)  |   G5   |    O    |   O    |   O     |   O    |   O    |
 | 3월 5주차 |  2   |     [K진 트리](https://www.acmicpc.net/problem/11812)      |   G3   |        |        |        |   O    |        |
 | 3월 5주차 |  3   |       [기지국](https://www.acmicpc.net/problem/2300)       |   G2   |        |        |        |        |        |
 | 4월 1주차 |  1   |                            []()                            |        |        |        |        |        |        |
