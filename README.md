@@ -40,11 +40,11 @@
 | 01/29 |     트리     |      [완전 이진 트리](https://www.acmicpc.net/problem/9934)       |   S1   |   O    |   O    |   O    |        |   O    |
 | 01/30 |     트리     |     [노드 사이의 거리](https://www.acmicpc.net/problem/1240)      |   G5   |   O    |   O    |   O    |        |   O    |
 | 01/30 |   완전탐색   |        [제곱수 찾기](https://www.acmicpc.net/problem/1025)        |   G5   |   O    |   O    |   O    |        |   O    |
-| 01/31 |     트리     |       [양 구출 작전](https://www.acmicpc.net/problem/16437)       |   G3   |   O     |   O    |   O    |        |   O    |
+| 01/31 |     트리     |       [양 구출 작전](https://www.acmicpc.net/problem/16437)       |   G3   |   O    |   O    |   O    |        |   O    |
 | 02/01 |  비트마스킹  |          [가르침](https://www.acmicpc.net/problem/1062)           |   G4   |   O    |   O    |   O    |        |   O    |
 | 02/02 |      큐      |         [좋은 친구](https://www.acmicpc.net/problem/3078)         |   G4   |   O    |   O    |   O    |        |   O    |
-| 02/03 |  비트마스킹  |      [링크와 스타트](https://www.acmicpc.net/problem/15661)       |   G5   |    O    |   O    |   O    |   O    |   O    |
-| 02/04 |     스택     |           [PPAP](https://www.acmicpc.net/problem/16120)           |   G4   |   O     |   O    |   O    |   O    |   O    |
+| 02/03 |  비트마스킹  |      [링크와 스타트](https://www.acmicpc.net/problem/15661)       |   G5   |   O    |   O    |   O    |   O    |   O    |
+| 02/04 |     스택     |           [PPAP](https://www.acmicpc.net/problem/16120)           |   G4   |   O    |   O    |   O    |   O    |   O    |
 | 02/05 |  연결리스트  |        [회전하는 큐](https://www.acmicpc.net/problem/1021)        |   S3   |   O    |   O    |   O    |        |        |
 | 02/06 |     트리     |        [트리 순회](https://www.acmicpc.net/problem/22856)         |   G4   |   O    |   O    |   O    |        |   O    |
 | 02/07 | 우선순위 큐  |          [강의실](https://www.acmicpc.net/problem/1374)           |   G5   |   O    |   O    |   O    |   O    |   O    |
@@ -61,19 +61,19 @@
 | 02/28 |  동적계획법  |         [줄세우기](https://www.acmicpc.net/problem/2631)          |   G4   |        |   O    |        |        |   O    |
 | 02/29 |   최단경로   |           [택배](https://www.acmicpc.net/problem/1719)            |   G3   |        |   O    |        |        |        |
 | 03/02 |   이분탐색   |           [좋다](https://www.acmicpc.net/problem/1253)            |   G4   |        |   O    |   O    |   O    |        |
-| 03/03 |     구현     |       [2048 (Easy)](https://www.acmicpc.net/problem/12100)        |   G2   |   O     |   O    |        |        |        |
+| 03/03 |     구현     |       [2048 (Easy)](https://www.acmicpc.net/problem/12100)        |   G2   |   O    |   O    |        |        |        |
 
 ## 주간 알고리즘
 
 | 주차      | 레벨 |                            문제                            | 난이도 | 강태경 | 박상욱 | 박세건 | 송주한 | 윤병서 |
 | --------- | :--: | :--------------------------------------------------------: | :----: | :----: | :----: | :----: | :----: | :----: |
-| 3월 3주차 |  1   |      [포스택](https://www.acmicpc.net/problem/25556)       |   G5   |        |   O    |   O    |   O    |    O   |
-| 3월 3주차 |  2   |      [나3곱2](https://www.acmicpc.net/problem/16936)       |   G5   |        |   O    |   O    |   O    |    O   |
+| 3월 3주차 |  1   |      [포스택](https://www.acmicpc.net/problem/25556)       |   G5   |        |   O    |   O    |   O    |   O    |
+| 3월 3주차 |  2   |      [나3곱2](https://www.acmicpc.net/problem/16936)       |   G5   |        |   O    |   O    |   O    |   O    |
 | 3월 3주차 |  3   |  [Gaaaaaaaaaarden](https://www.acmicpc.net/problem/18809)  |   G1   |        |   O    |        |        |        |
-| 3월 4주차 |  1   |    [무한부스터](https://www.acmicpc.net/problem/17391)     |   S1   |        |   O    |    O    |        |        |
+| 3월 4주차 |  1   |    [무한부스터](https://www.acmicpc.net/problem/17391)     |   S1   |        |   O    |   O    |        |        |
 | 3월 4주차 |  2   |     [암벽 등반](https://www.acmicpc.net/problem/2412)      |   G4   |        |   O    |        |        |        |
-| 3월 4주차 |  2   | [산업 스파이의 편지](https://www.acmicpc.net/problem/3671) |   G4   |    O     |   O    |        |        |        |
-| 3월 5주차 |  1   | [끝나지 않는 파티](https://www.acmicpc.net/problem/11265)  |   G5   |    O    |   O    |   O     |   O    |   O    |
+| 3월 4주차 |  2   | [산업 스파이의 편지](https://www.acmicpc.net/problem/3671) |   G4   |   O    |   O    |        |        |        |
+| 3월 5주차 |  1   | [끝나지 않는 파티](https://www.acmicpc.net/problem/11265)  |   G5   |   O    |   O    |   O    |   O    |   O    |
 | 3월 5주차 |  2   |     [K진 트리](https://www.acmicpc.net/problem/11812)      |   G3   |        |        |        |   O    |        |
 | 3월 5주차 |  3   |       [기지국](https://www.acmicpc.net/problem/2300)       |   G2   |        |        |        |        |        |
 | 4월 1주차 |  1   |                            []()                            |        |        |        |        |        |        |
