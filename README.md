@@ -78,7 +78,7 @@
 | 3월 5주차 |  3   |                      [기지국](https://www.acmicpc.net/problem/2300)                       |   G2   |        |        |        |        |        |
 | 4월 1주차 |  1   |                     [매직 스타](https://www.acmicpc.net/problem/3967)                     |   G5   |        |        |        |        |        |
 | 4월 1주차 |  2   |                    [사다리타기](https://www.acmicpc.net/problem/2469)                     |   G5   |        |        |        |        |        |
-| 4월 1주차 |  3   | [부서 별 연봉 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284529) | Lv. 4  |        |        |        |        |        |
+| 4월 1주차 |  3   | [부서 별 연봉 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284529) | Lv. 4  |        |   O    |        |        |        |
 | 4월 2주차 |  1   |                                           []()                                            |        |        |        |        |        |        |
 | 4월 2주차 |  2   |                                           []()                                            |        |        |        |        |        |        |
 | 4월 2주차 |  3   |                                           []()                                            |        |        |        |        |        |        |
