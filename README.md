@@ -76,7 +76,7 @@
 | 3월 5주차 |  1   |                 [끝나지 않는 파티](https://www.acmicpc.net/problem/11265)                 |   G5   |   O    |   O    |   O    |   O    |   O    |
 | 3월 5주차 |  2   |                     [K진 트리](https://www.acmicpc.net/problem/11812)                     |   G3   |        |   O    |        |   O    |        |
 | 3월 5주차 |  3   |                      [기지국](https://www.acmicpc.net/problem/2300)                       |   G2   |        |        |        |        |        |
-| 4월 1주차 |  1   |                     [매직 스타](https://www.acmicpc.net/problem/3967)                     |   G5   |        |        |        |        |        |
+| 4월 1주차 |  1   |                     [매직 스타](https://www.acmicpc.net/problem/3967)                     |   G5   |        |        |    O    |        |        |
 | 4월 1주차 |  2   |                    [사다리타기](https://www.acmicpc.net/problem/2469)                     |   G5   |        |        |        |        |        |
 | 4월 1주차 |  3   | [부서 별 연봉 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284529) | Lv. 4  |        |   O    |        |        |        |
 | 4월 2주차 |  1   |                                           []()                                            |        |        |        |        |        |        |
