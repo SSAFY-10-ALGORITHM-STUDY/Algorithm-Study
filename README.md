@@ -49,9 +49,9 @@
 | 02/06 |     트리     |        [트리 순회](https://www.acmicpc.net/problem/22856)         |   G4   |   O    |   O    |   O    |        |   O    |
 | 02/07 | 우선순위 큐  |          [강의실](https://www.acmicpc.net/problem/1374)           |   G5   |   O    |   O    |   O    |   O    |   O    |
 | 02/08 |   분할정복   |        [칸토어 집합](https://www.acmicpc.net/problem/4779)        |   S3   |   O    |   O    |   O    |   O    |   O    |
-| 02/13 |    그리디    |       [파일 합치기3](https://www.acmicpc.net/problem/13975)       |   G4   |        |   O    |   O    |   O    |   O    |
-| 02/14 |   분할정복   |          [Moo게임](https://www.acmicpc.net/problem/5904)          |   G5   |        |   O    |   O    |   O    |        |
-| 02/15 |    그래프    |            [불](https://www.acmicpc.net/problem/5427)             |   G4   |        |   O    |   O    |        |   O    |
+| 02/13 |    그리디    |       [파일 합치기3](https://www.acmicpc.net/problem/13975)       |   G4   |    O    |   O    |   O    |   O    |   O    |
+| 02/14 |   분할정복   |          [Moo게임](https://www.acmicpc.net/problem/5904)          |   G5   |    O    |   O    |   O    |   O    |        |
+| 02/15 |    그래프    |            [불](https://www.acmicpc.net/problem/5427)             |   G4   |    O    |   O    |   O    |        |   O    |
 | 02/16 |    그래프    |   [가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584)   |   G4   |        |   O    |   O    |        |        |
 | 02/20 |    그래프    | [서울 지하철 2호선 (DFS)](https://www.acmicpc.net/problem/16947)  |   G4   |        |   O    |   O    |   O    |        |
 | 02/21 |  서로소집합  |     [피리 부는 사나이](https://www.acmicpc.net/problem/16724)     |   G3   |        |   O    |   O    |        |   O    |
