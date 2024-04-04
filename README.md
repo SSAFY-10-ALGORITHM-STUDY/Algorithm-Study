@@ -52,7 +52,7 @@
 | 02/13 |    그리디    |       [파일 합치기3](https://www.acmicpc.net/problem/13975)       |   G4   |    O    |   O    |   O    |   O    |   O    |
 | 02/14 |   분할정복   |          [Moo게임](https://www.acmicpc.net/problem/5904)          |   G5   |    O    |   O    |   O    |   O    |        |
 | 02/15 |    그래프    |            [불](https://www.acmicpc.net/problem/5427)             |   G4   |    O    |   O    |   O    |        |   O    |
-| 02/16 |    그래프    |   [가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584)   |   G4   |        |   O    |   O    |        |        |
+| 02/16 |    그래프    |   [가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584)   |   G4   |    O    |   O    |   O    |        |        |
 | 02/20 |    그래프    | [서울 지하철 2호선 (DFS)](https://www.acmicpc.net/problem/16947)  |   G4   |        |   O    |   O    |   O    |        |
 | 02/21 |  서로소집합  |     [피리 부는 사나이](https://www.acmicpc.net/problem/16724)     |   G3   |        |   O    |   O    |        |   O    |
 | 02/22 | 최소신장트리 |        [도시 건설](https://www.acmicpc.net/problem/21924)         |   G4   |        |   O    |        |        |   O    |
