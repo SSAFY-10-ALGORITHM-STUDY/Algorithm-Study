@@ -49,10 +49,10 @@
 | 02/06 |     트리     |        [트리 순회](https://www.acmicpc.net/problem/22856)         |   G4   |   O    |   O    |   O    |        |   O    |
 | 02/07 | 우선순위 큐  |          [강의실](https://www.acmicpc.net/problem/1374)           |   G5   |   O    |   O    |   O    |   O    |   O    |
 | 02/08 |   분할정복   |        [칸토어 집합](https://www.acmicpc.net/problem/4779)        |   S3   |   O    |   O    |   O    |   O    |   O    |
-| 02/13 |    그리디    |       [파일 합치기3](https://www.acmicpc.net/problem/13975)       |   G4   |    O    |   O    |   O    |   O    |   O    |
-| 02/14 |   분할정복   |          [Moo게임](https://www.acmicpc.net/problem/5904)          |   G5   |    O    |   O    |   O    |   O    |        |
-| 02/15 |    그래프    |            [불](https://www.acmicpc.net/problem/5427)             |   G4   |    O    |   O    |   O    |        |   O    |
-| 02/16 |    그래프    |   [가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584)   |   G4   |    O    |   O    |   O    |        |        |
+| 02/13 |    그리디    |       [파일 합치기3](https://www.acmicpc.net/problem/13975)       |   G4   |   O    |   O    |   O    |   O    |   O    |
+| 02/14 |   분할정복   |          [Moo게임](https://www.acmicpc.net/problem/5904)          |   G5   |   O    |   O    |   O    |   O    |        |
+| 02/15 |    그래프    |            [불](https://www.acmicpc.net/problem/5427)             |   G4   |   O    |   O    |   O    |        |   O    |
+| 02/16 |    그래프    |   [가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584)   |   G4   |   O    |   O    |   O    |        |        |
 | 02/20 |    그래프    | [서울 지하철 2호선 (DFS)](https://www.acmicpc.net/problem/16947)  |   G4   |        |   O    |   O    |   O    |        |
 | 02/21 |  서로소집합  |     [피리 부는 사나이](https://www.acmicpc.net/problem/16724)     |   G3   |        |   O    |   O    |        |   O    |
 | 02/22 | 최소신장트리 |        [도시 건설](https://www.acmicpc.net/problem/21924)         |   G4   |        |   O    |        |        |   O    |
@@ -74,9 +74,9 @@
 | 3월 4주차 |  2   |                     [암벽 등반](https://www.acmicpc.net/problem/2412)                     |   G4   |        |   O    |   O    |        |        |
 | 3월 4주차 |  2   |                [산업 스파이의 편지](https://www.acmicpc.net/problem/3671)                 |   G4   |   O    |   O    |        |        |   O    |
 | 3월 5주차 |  1   |                 [끝나지 않는 파티](https://www.acmicpc.net/problem/11265)                 |   G5   |   O    |   O    |   O    |   O    |   O    |
-| 3월 5주차 |  2   |                     [K진 트리](https://www.acmicpc.net/problem/11812)                     |   G3   |        |   O    |    O   |   O    |        |
+| 3월 5주차 |  2   |                     [K진 트리](https://www.acmicpc.net/problem/11812)                     |   G3   |        |   O    |   O    |   O    |        |
 | 3월 5주차 |  3   |                      [기지국](https://www.acmicpc.net/problem/2300)                       |   G2   |        |        |        |        |        |
-| 4월 1주차 |  1   |                     [매직 스타](https://www.acmicpc.net/problem/3967)                     |   G5   |        |        |    O    |        |        |
+| 4월 1주차 |  1   |                     [매직 스타](https://www.acmicpc.net/problem/3967)                     |   G5   |        |   O    |   O    |        |        |
 | 4월 1주차 |  2   |                    [사다리타기](https://www.acmicpc.net/problem/2469)                     |   G5   |        |        |        |        |        |
 | 4월 1주차 |  3   | [부서 별 연봉 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284529) | Lv. 4  |        |   O    |        |        |        |
 | 4월 2주차 |  1   |                                           []()                                            |        |        |        |        |        |        |
