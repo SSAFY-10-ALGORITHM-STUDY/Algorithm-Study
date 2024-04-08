@@ -81,7 +81,7 @@
 | 4월 1주차 |  3   |     [부서 별 연봉 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284529)      | Lv. 4  |        |   O    |    O   |        |        |
 | 4월 2주차 |  2   |                      [함께 블록 쌓기](https://www.acmicpc.net/problem/18427)                       |   G4   |        |        |        |        |        |
 | 4월 2주차 |  1   |                        [문자열 화폐](https://www.acmicpc.net/problem/17828)                        |   G5   |        |        |        |        |        |
-| 4월 2주차 |  3   | [물고기별 수와 최대 길이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/298519) | Lv. 3  |        |        |        |        |        |
+| 4월 2주차 |  3   | [물고기별 수와 최대 길이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/298519) | Lv. 3  |        |        |    O   |        |        |
 | 4월 3주차 |  1   |                                                []()                                                |        |        |        |        |        |        |
 | 4월 3주차 |  2   |                                                []()                                                |        |        |        |        |        |        |
 | 4월 3주차 |  3   |                                                []()                                                |        |        |        |        |        |        |
