@@ -84,7 +84,7 @@
 | 4월 2주차 |  3   | [물고기별 수와 최대 길이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/298519) | Lv. 3  |   O    |   O    |   O    |   O    |   O    |
 | 4월 3주차 |  1   |                       [나무꾼 이다솜](https://www.acmicpc.net/problem/1421)                        |   S1   |        |   O    |        |        |        |
 | 4월 3주차 |  2   |                        [풍선 맞추기](https://www.acmicpc.net/problem/11509)                        |   G5   |        |        |        |        |        |
-| 4월 3주차 |  3   |    [특정 세대의 대장균 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/301650)     | Lv. 4  |        |        |        |        |        |
+| 4월 3주차 |  3   |    [특정 세대의 대장균 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/301650)     | Lv. 4  |        |     O   |        |        |        |
 | 4월 4주차 |  1   |                                                []()                                                |        |        |        |        |        |        |
 | 4월 4주차 |  2   |                                                []()                                                |        |        |        |        |        |        |
 | 4월 4주차 |  3   |                                                []()                                                |        |        |        |        |        |        |
