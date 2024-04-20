@@ -57,9 +57,9 @@
 | 02/21 |  서로소집합  |     [피리 부는 사나이](https://www.acmicpc.net/problem/16724)     |   G3   |   O    |   O    |   O    |        |   O    |
 | 02/22 | 최소신장트리 |        [도시 건설](https://www.acmicpc.net/problem/21924)         |   G4   |   O    |   O    |        |        |   O    |
 | 02/23 |   최단경로   |         [택배 배송](https://www.acmicpc.net/problem/5972)         |   G5   |   O    |   O    |   O    |        |   O    |
-| 02/27 |  동적계획법  |         [극장 좌석](https://www.acmicpc.net/problem/2302)         |   S1   |    O    |   O    |   O    |        |   O    |
+| 02/27 |  동적계획법  |         [극장 좌석](https://www.acmicpc.net/problem/2302)         |   S1   |   O    |   O    |   O    |        |   O    |
 | 02/28 |  동적계획법  |         [줄세우기](https://www.acmicpc.net/problem/2631)          |   G4   |        |   O    |        |        |   O    |
-| 02/29 |   최단경로   |           [택배](https://www.acmicpc.net/problem/1719)            |   G3   |    O    |   O    |        |        |        |
+| 02/29 |   최단경로   |           [택배](https://www.acmicpc.net/problem/1719)            |   G3   |   O    |   O    |        |        |        |
 | 03/02 |   이분탐색   |           [좋다](https://www.acmicpc.net/problem/1253)            |   G4   |        |   O    |   O    |   O    |        |
 | 03/03 |     구현     |       [2048 (Easy)](https://www.acmicpc.net/problem/12100)        |   G2   |   O    |   O    |        |        |        |
 
@@ -75,12 +75,12 @@
 | 3월 4주차 |  2   |                     [산업 스파이의 편지](https://www.acmicpc.net/problem/3671)                     |   G4   |   O    |   O    |   O    |        |        |
 | 3월 5주차 |  1   |                     [끝나지 않는 파티](https://www.acmicpc.net/problem/11265)                      |   G5   |   O    |   O    |   O    |   O    |   O    |
 | 3월 5주차 |  2   |                         [K진 트리](https://www.acmicpc.net/problem/11812)                          |   G3   |        |   O    |   O    |   O    |        |
-| 3월 5주차 |  3   |                           [기지국](https://www.acmicpc.net/problem/2300)                           |   G2   |        |        |        |        |        |
+| 3월 5주차 |  3   |                           [기지국](https://www.acmicpc.net/problem/2300)                           |   G2   |        |   O    |        |        |        |
 | 4월 1주차 |  1   |                         [매직 스타](https://www.acmicpc.net/problem/3967)                          |   G5   |        |   O    |   O    |        |        |
 | 4월 1주차 |  2   |                         [사다리타기](https://www.acmicpc.net/problem/2469)                         |   G5   |        |   O    |        |        |        |
 | 4월 1주차 |  3   |     [부서 별 연봉 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/284529)      | Lv. 4  |   O    |   O    |   O    |        |   O    |
 | 4월 2주차 |  2   |                      [함께 블록 쌓기](https://www.acmicpc.net/problem/18427)                       |   G4   |        |   O    |        |        |        |
-| 4월 2주차 |  1   |                        [문자열 화폐](https://www.acmicpc.net/problem/17828)                        |   G5   |        |   O    |    O   |        |   O    |
+| 4월 2주차 |  1   |                        [문자열 화폐](https://www.acmicpc.net/problem/17828)                        |   G5   |        |   O    |   O    |        |   O    |
 | 4월 2주차 |  3   | [물고기별 수와 최대 길이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/298519) | Lv. 3  |   O    |   O    |   O    |   O    |   O    |
 | 4월 3주차 |  1   |                       [나무꾼 이다솜](https://www.acmicpc.net/problem/1421)                        |   S1   |        |   O    |        |        |        |
 | 4월 3주차 |  2   |                        [풍선 맞추기](https://www.acmicpc.net/problem/11509)                        |   G5   |        |   O    |        |        |        |
