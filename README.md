@@ -85,7 +85,7 @@
 | 4월 3주차 |  1   |                       [나무꾼 이다솜](https://www.acmicpc.net/problem/1421)                        |   S1   |        |   O    |        |        |        |
 | 4월 3주차 |  2   |                        [풍선 맞추기](https://www.acmicpc.net/problem/11509)                        |   G5   |        |   O    |        |        |        |
 | 4월 3주차 |  3   |    [특정 세대의 대장균 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/301650)     | Lv. 4  |   O    |   O    |        |        |        |
-| 4월 4주차 |  1   |                            [호텔](https://www.acmicpc.net/problem/1106)                            |   G4   |        |        |        |        |        |
+| 4월 4주차 |  1   |                            [호텔](https://www.acmicpc.net/problem/1106)                            |   G4   |        |   O    |        |        |        |
 | 4월 4주차 |  2   |                     [가장 높은 탑 쌓기](https://www.acmicpc.net/problem/2655)                      |   G3   |        |        |        |        |        |
 | 4월 4주차 |  3   |           [110 옮기기](https://school.programmers.co.kr/learn/courses/30/lessons/77886)            | Lv. 3  |        |        |        |        |        |
 | 5월 1주차 |  1   |                                                []()                                                |        |        |        |        |        |        |
