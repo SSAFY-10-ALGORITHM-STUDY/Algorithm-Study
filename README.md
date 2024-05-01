@@ -68,9 +68,9 @@
 | 주차      | 레벨 |                                                문제                                                | 난이도 | 강태경 | 박상욱 | 박세건 | 송주한 | 윤병서 |
 | --------- | :--: | :------------------------------------------------------------------------------------------------: | :----: | :----: | :----: | :----: | :----: | :----: |
 | 3월 3주차 |  1   |                          [포스택](https://www.acmicpc.net/problem/25556)                           |   G5   |   O    |   O    |   O    |   O    |   O    |
-| 3월 3주차 |  2   |                          [나3곱2](https://www.acmicpc.net/problem/16936)                           |   G5   |    O   |   O    |   O    |   O    |   O    |
+| 3월 3주차 |  2   |                          [나3곱2](https://www.acmicpc.net/problem/16936)                           |   G5   |   O    |   O    |   O    |   O    |   O    |
 | 3월 3주차 |  3   |                      [Gaaaaaaaaaarden](https://www.acmicpc.net/problem/18809)                      |   G1   |        |   O    |        |        |        |
-| 3월 4주차 |  1   |                        [무한부스터](https://www.acmicpc.net/problem/17391)                         |   S1   |     O   |   O    |   O    |        |   O    |
+| 3월 4주차 |  1   |                        [무한부스터](https://www.acmicpc.net/problem/17391)                         |   S1   |   O    |   O    |   O    |        |   O    |
 | 3월 4주차 |  2   |                         [암벽 등반](https://www.acmicpc.net/problem/2412)                          |   G4   |        |   O    |   O    |        |   O    |
 | 3월 4주차 |  2   |                     [산업 스파이의 편지](https://www.acmicpc.net/problem/3671)                     |   G4   |   O    |   O    |   O    |        |        |
 | 3월 5주차 |  1   |                     [끝나지 않는 파티](https://www.acmicpc.net/problem/11265)                      |   G5   |   O    |   O    |   O    |   O    |   O    |
@@ -84,9 +84,9 @@
 | 4월 2주차 |  3   | [물고기별 수와 최대 길이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/298519) | Lv. 3  |   O    |   O    |   O    |   O    |   O    |
 | 4월 3주차 |  1   |                       [나무꾼 이다솜](https://www.acmicpc.net/problem/1421)                        |   S1   |        |   O    |        |        |        |
 | 4월 3주차 |  2   |                        [풍선 맞추기](https://www.acmicpc.net/problem/11509)                        |   G5   |        |   O    |        |        |        |
-| 4월 3주차 |  3   |    [특정 세대의 대장균 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/301650)     | Lv. 4  |   O    |   O    |    O   |        |        |
+| 4월 3주차 |  3   |    [특정 세대의 대장균 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/301650)     | Lv. 4  |   O    |   O    |   O    |        |        |
 | 4월 4주차 |  1   |                            [호텔](https://www.acmicpc.net/problem/1106)                            |   G4   |        |   O    |        |        |        |
-| 4월 4주차 |  2   |                     [가장 높은 탑 쌓기](https://www.acmicpc.net/problem/2655)                      |   G3   |        |        |        |        |        |
+| 4월 4주차 |  2   |                     [가장 높은 탑 쌓기](https://www.acmicpc.net/problem/2655)                      |   G3   |        |   O    |        |        |        |
 | 4월 4주차 |  3   |           [110 옮기기](https://school.programmers.co.kr/learn/courses/30/lessons/77886)            | Lv. 3  |        |        |        |        |        |
 | 5월 1주차 |  1   |                                                []()                                                |        |        |        |        |        |        |
 | 5월 1주차 |  2   |                                                []()                                                |        |        |        |        |        |        |
