@@ -71,7 +71,7 @@
 | 3월 3주차 |  2   |                          [나3곱2](https://www.acmicpc.net/problem/16936)                           |   G5   |   O    |   O    |   O    |   O    |   O    |
 | 3월 3주차 |  3   |                      [Gaaaaaaaaaarden](https://www.acmicpc.net/problem/18809)                      |   G1   |        |   O    |        |        |        |
 | 3월 4주차 |  1   |                        [무한부스터](https://www.acmicpc.net/problem/17391)                         |   S1   |   O    |   O    |   O    |        |   O    |
-| 3월 4주차 |  2   |                         [암벽 등반](https://www.acmicpc.net/problem/2412)                          |   G4   |        |   O    |   O    |        |   O    |
+| 3월 4주차 |  2   |                         [암벽 등반](https://www.acmicpc.net/problem/2412)                          |   G4   |   O     |   O    |   O    |        |   O    |
 | 3월 4주차 |  2   |                     [산업 스파이의 편지](https://www.acmicpc.net/problem/3671)                     |   G4   |   O    |   O    |   O    |        |        |
 | 3월 5주차 |  1   |                     [끝나지 않는 파티](https://www.acmicpc.net/problem/11265)                      |   G5   |   O    |   O    |   O    |   O    |   O    |
 | 3월 5주차 |  2   |                         [K진 트리](https://www.acmicpc.net/problem/11812)                          |   G3   |        |   O    |   O    |   O    |        |
